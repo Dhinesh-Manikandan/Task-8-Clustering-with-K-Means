@@ -1,5 +1,3 @@
-# Task-8-Clustering-with-K-Means
-
 # Mall Customer Segmentation Using K-Means Clustering
 
 ## Overview
