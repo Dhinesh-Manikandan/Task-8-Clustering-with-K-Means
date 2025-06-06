@@ -56,9 +56,10 @@ In this task, I performed unsupervised customer segmentation on the Mall Custome
 
 ## References
 
-- Key Reference Materials : AI Chatbots
-          1.[GPT](https://chatgpt.com/c/6842770e-4e10-8009-8b9d-0676feecac73)
-          2.[Perplexity](https://www.perplexity.ai/search/task-8-clustering-with-k-means-TqUwcyzWSYGjsG7ESuhtFg)
-- [Youtube Video](https://www.youtube.com/watch?v=4b5d3muPQmA)
+1. [GPT](https://chatgpt.com/c/6842770e-4e10-8009-8b9d-0676feecac73)
+ 
+2. [Perplexity](https://www.perplexity.ai/search/task-8-clustering-with-k-means-TqUwcyzWSYGjsG7ESuhtFg)
+
+3. [Youtube Video](https://www.youtube.com/watch?v=4b5d3muPQmA)
 
 ---
